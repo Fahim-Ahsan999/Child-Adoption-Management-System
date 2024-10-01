@@ -1,0 +1,90 @@
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.Caching\ClientPerfCountersInstaller.exe.config
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.Caching\ClientPerfCountersInstaller.exe
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.Caching\PerformanceCounters.xml
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\CAMA02.exe.config
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\CAMA02.exe
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\CAMA02.pdb
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.AzureClientHelper.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.AzureCommon.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.Web.DistributedCache.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.AzureCommon.xml
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.AssemblyReference.cache
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form1.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form10.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form2.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form3.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form4.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form5.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form6.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form7.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form8.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form9.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Properties.Resources.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.GenerateResource.cache
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.CoreCompileInputs.cache
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.Up2Date
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.exe
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.pdb
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form11.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form12.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form13.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form14.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form15.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form16.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form17.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form18.resources
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\WindowsAzureTelemetryEvents.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\bin\Debug\WindowsAzureEventSource.dll
+C:\Users\fahim\source\repos\CAMA02\CAMA02\obj\Debug\CAMA02.Form19.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.Caching\ClientPerfCountersInstaller.exe.config
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.Caching\ClientPerfCountersInstaller.exe
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.Caching\PerformanceCounters.xml
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\CAMA02.exe.config
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\CAMA02.exe
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\CAMA02.pdb
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.AzureClientHelper.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.AzureCommon.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.Web.DistributedCache.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsFabric.Common.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsFabric.Data.Common.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\WindowsAzureTelemetryEvents.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\WindowsAzureEventSource.dll
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.AzureCommon.xml
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Client.xml
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\bin\Debug\Microsoft.ApplicationServer.Caching.Core.xml
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.AssemblyReference.cache
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form1.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form10.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form11.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form12.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form13.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form14.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form15.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form16.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form17.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form18.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form19.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form2.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form3.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form4.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form5.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form6.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form7.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form8.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Form9.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.Properties.Resources.resources
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.GenerateResource.cache
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.csproj.Up2Date
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.exe
+C:\Users\fahim\Desktop\New folder (5)\CAMA02\CAMA02\obj\Debug\CAMA02.pdb
